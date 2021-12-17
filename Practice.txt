@@ -1,1 +1,4 @@
 
+Saidi loojad nimetavad GitHubi "arendajate sotsiaalseks võrgustikuks".
+
+Lisaks koodi paigutamisele saavad osalejad suhelda, üksteise toimetusi kommenteerida ja ka sõprade uudiseid jälgida.
