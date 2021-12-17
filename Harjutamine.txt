@@ -1,0 +1,6 @@
+GitHub on suurepärane platvorm, mis muudab arendajate tööd. Kuid igaüks, kes soovib oma projekti tõhusalt hallata ja koostööd teha, 
+saab õppida, mis on GitHub ja kuidas seda kasutada.
+
+Kui teie meeskond töötab projekti kallal, mis vajab pidevat värskendust ja soovib tehtud muudatustel 
+silma peal hoida, on GitHub just see, mida vajate. On ka teisi alternatiive, nagu GitLab, BitBucket, kuid parem on kõigepealt 
+välja mõelda, mis on GitHub, ja õppida seda kasutama.
